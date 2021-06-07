@@ -22,7 +22,7 @@ Rekomedowane jest wykorzystanie ogólnodostępnych bibliotek programistycznych.
 
 • sprawdzenie czy jedgo dane są zapisane w bazie.
 
-# Funkcjonalności dostepne jedynie z poziomu admina serwisu
+### Funkcjonalności dostepne jedynie z poziomu admina serwisu
 • tworzenie nowych ankiet,
 
 • dodawanie pytań i odpowiedzi do ankiet,
