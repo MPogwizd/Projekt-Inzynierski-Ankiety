@@ -20,14 +20,14 @@ Rekomedowane jest wykorzystanie ogólnodostępnych bibliotek programistycznych.
 
 • wypełnainie ankiet,
 
-• sprawdzenie czy jedgo dane są zapisane w bazie.
+• weryfikacja wysłanych odpowiedzi.
 
 ### Funkcjonalności dostepne jedynie z poziomu admina serwisu
 • tworzenie nowych ankiet,
 
 • dodawanie pytań i odpowiedzi do ankiet,
 
-• sprawdzenie którzy użytkownicy wypełnili ankiety.
+• sprawdzenie jakie ankiety wypełnił konkretny użytkownik.
 
 ## Instalacja
 Do zaintsalowania na localhoscie wymagane jest posiadanie pakietu XAMPP umożliwającego dostęp do narzędzia phpMyAdmin oraz do serwera lokalnego. Plik Questinaries.sql nalezy zaimportować w phpMyAdmin, a wszytie pliki aplikacji umieścic w folderze .../xampp/htdocs/STRONA
