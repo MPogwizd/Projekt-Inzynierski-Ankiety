@@ -1,6 +1,6 @@
 System umożliwiający głosowanie. Repozytorium w ramach przedmiotu "Projekt inżynierski"
 
-Wymagania
+<h>Wymagania</h>
 System zrealizowany w formie aplikacji webowej powinien uwzględniać możliwość oddania głosu lub wyrażenia opinii w taki sposób, aby realizować następujące funkcje:
 
 • informacje przechowywane w bazie danych,
