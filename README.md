@@ -1,6 +1,7 @@
-System umożliwiający głosowanie. Repozytorium w ramach przedmiotu "Projekt inżynierski"
+# System umożliwiający głosowanie. 
+### Repozytorium w ramach przedmiotu "Projekt inżynierski"
 
-# Wymagania
+## Wymagania
 System zrealizowany w formie aplikacji webowej powinien uwzględniać możliwość oddania głosu lub wyrażenia opinii w taki sposób, aby realizować następujące funkcje:
 
 • informacje przechowywane w bazie danych,
@@ -15,14 +16,13 @@ Implementacja powinna uzględniać responsywny interfejs. Do zapewnienia anonimo
 
 Rekomedowane jest wykorzystanie ogólnodostępnych bibliotek programistycznych.
 
-Funkcjonalności
+## Funkcjonalności
 
 • wypełnainie ankiet,
 
 • sprawdzenie czy jedgo dane są zapisane w bazie.
 
-Konto administratora oprócz podstawowych funkcjonalności jakie posiada zwykły użytkownik umożliwia:
-
+# Funkcjonalności dostepne jedynie z poziomu admina serwisu
 • tworzenie nowych ankiet,
 
 • dodawanie pytań i odpowiedzi do ankiet,
