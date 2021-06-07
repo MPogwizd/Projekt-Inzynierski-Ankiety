@@ -1,4 +1,3 @@
-Anonimowe-ankiety
 System umożliwiający głosowanie. Repozytorium w ramach przedmiotu "Projekt inżynierski"
 
 Wymagania
