@@ -1,4 +1,4 @@
-# System umożliwiający głosowanie. 
+# System umożliwiający anonimowe głosowanie. 
 ### Repozytorium w ramach przedmiotu "Projekt inżynierski"
 
 ## Wymagania
