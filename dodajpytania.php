@@ -96,9 +96,7 @@ echo "</select>";
 	Pytanie: <br /> <input type="text" value="" name="questions_contents" /><br />
 	Typ pytania: <br /> <select name='typequestions'>
 		<option value="abcd">Pytanie zamknięte</option>
-		<option value="text">TEXT</option>
 		<option value="textarea">Pytanie otwarte</option>
-		<option value="radio">Pytanie z 1 odpowiedzią</option>
 		<option value="wiek">Wiek</option>
 		<option value="skala">Skala</option>
 		<br />
