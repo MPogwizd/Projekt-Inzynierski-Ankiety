@@ -30,4 +30,4 @@ Rekomedowane jest wykorzystanie ogólnodostępnych bibliotek programistycznych.
 • sprawdzenie jakie ankiety wypełnił konkretny użytkownik.
 
 ## Instalacja
-Do zaintsalowania na localhoscie wymagane jest posiadanie pakietu XAMPP umożliwającego dostęp do narzędzia phpMyAdmin oraz do serwera lokalnego. Plik Questinaries.sql nalezy zaimportować w phpMyAdmin, a wszytie pliki aplikacji umieścic w folderze .../xampp/htdocs/STRONA
+Do zainstalowania na localhoscie wymagane jest posiadanie pakietu XAMPP umożliwającego dostęp do narzędzia phpMyAdmin oraz do serwera lokalnego. Plik Questinaries.sql nalezy zaimportować w phpMyAdmin, a wszytie pliki aplikacji umieścic w folderze .../xampp/htdocs/STRONA
