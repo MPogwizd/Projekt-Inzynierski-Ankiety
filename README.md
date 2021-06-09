@@ -34,3 +34,7 @@ Do zainstalowania na localhoscie wymagane jest posiadanie pakietu XAMPP umożliw
 
 ## Dokumentacja
 Dokumentacja znajduje sie w folderze html. Aby uzyskać dostep do niej należy postąpic analgoicznie jak przy instalacji serwisu na localhoscie.
+
+### Autorzy
+• Michał Pogwizd,
+• Jarosław Kupiec.
