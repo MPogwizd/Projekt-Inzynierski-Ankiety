@@ -31,3 +31,6 @@ Rekomedowane jest wykorzystanie ogólnodostępnych bibliotek programistycznych.
 
 ## Instalacja
 Do zainstalowania na localhoscie wymagane jest posiadanie pakietu XAMPP umożliwającego dostęp do narzędzia phpMyAdmin oraz do serwera lokalnego. Plik Questinaries.sql nalezy zaimportować w phpMyAdmin, a wszytie pliki aplikacji umieścic w folderze .../xampp/htdocs/STRONA
+
+## Dokumentacja
+Dokumentacja znajduje sie w folderze html. Aby uzyskać dostep do niej należy postąpic analgoicznie jak przy instalacji serwisu na localhoscie.
