@@ -34,7 +34,7 @@ Do zainstalowania na localhoscie wymagane jest posiadanie pakietu XAMPP umożliw
 
 ## Dokumentacja
 Dokumentacja znajduje sie pod adresem https://mpogwizd.github.io/Projekt-Inzynierski-Ankiety/index.html
-Wrzystkie pliki wymagane do prawidłowego działania dokumentacji znajdują się w katalogu html.
+Wszystkie pliki wymagane do prawidłowego działania dokumentacji znajdują się w katalogu html.
 
 ### Autorzy
 • Michał Pogwizd,
