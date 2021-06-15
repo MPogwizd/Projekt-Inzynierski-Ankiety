@@ -60,7 +60,7 @@ echo "</select>";
 	?>
 	<br />
 	<br />
-	Dla potwierdzenia podaj swoje hasło/lub unikatowy kod.<br />
+	Dla potwierdzenia podaj identyfikator ankiety wygenerowany podczas jej wypełniania<br />
 		<input type="password" name="kod" /><br /><br />
 		<input type="submit" name="wyslij" />
 	

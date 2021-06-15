@@ -25,7 +25,7 @@
 				$kod2=$kod1;
 		}
 		if (@$kod2==''){
-			$_SESSION['blad2'] = '<span style="color:red">Podałeś zły kod lub ktoś edytował Twoje answers zglos sie do administratora!</span>';
+			$_SESSION['blad2'] = '<span style="color:red">Podałeś zły kod lub ktoś edytował Twoje odpowiedzi zglos sie do administratora! </span>';
 				header('Location: show_odp.php');
 			}
 		$z=("select answ,hash_answ from answers where id_questionnaire='".$ankiety_id."' and hash_answ='".@$kod2."';");
@@ -49,7 +49,7 @@
 
 			$answ_rozdzielone = explode("_", $answ);
 			count($answ_rozdzielone);
-			@$_SESSION['answers1'].="Nikt nie edytował Twoich odpowiedzi:";
+			@$_SESSION['answers1'].="Twoje odpowiedzi to:";
 			@$_SESSION['answers1'].="</br>";
 			while($j<$ile_znalezionych){
 			$wiersz=$result1->fetch_assoc();
@@ -104,6 +104,7 @@
 <?php
 	if(isset($_SESSION['blad2']))	echo $_SESSION['blad2'];
 	echo @$_SESSION['answers1'];
+	unset($_SESSION['answers1']);
 ?>
 
 </div>
