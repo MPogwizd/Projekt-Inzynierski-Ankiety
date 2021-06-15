@@ -33,7 +33,8 @@ Rekomedowane jest wykorzystanie ogólnodostępnych bibliotek programistycznych.
 Do zainstalowania na localhoscie wymagane jest posiadanie pakietu XAMPP umożliwającego dostęp do narzędzia phpMyAdmin oraz do serwera lokalnego. Plik Questinaries.sql nalezy zaimportować w phpMyAdmin, a wszytie pliki aplikacji umieścic w folderze .../xampp/htdocs/STRONA
 
 ## Dokumentacja
-Dokumentacja znajduje sie w folderze html. Aby uzyskać dostep do niej należy postąpic analgoicznie jak przy instalacji serwisu na localhoscie.
+Dokumentacja znajduje sie pod adresem https://mpogwizd.github.io/Projekt-Inzynierski-Ankiety/index.html
+Wrzystkie pliki wymagane do prawidłowego działania dokumentacji znajdują się w katalogu html.
 
 ### Autorzy
 • Michał Pogwizd,
